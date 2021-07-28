@@ -1,6 +1,6 @@
 ## Delaunay portraits
 
-I stumbled upon examples of Delaunay portraits on Pinterest and was so impressed by them, that I wanted to reverse-engineer the code behind them.
+I stumbled upon examples of Delaunay portraits on Pinterest and was so impressed, that I wanted to reverse-engineer the code behind them.
 
 ### Examples
 **Input**
